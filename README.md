@@ -8,11 +8,6 @@ This is Backend And API of Kagets-App Made With Laravel Framework
 !['news-image']('image_readme/news.png')
 
 
-# backend-kagets
-# backend-kagets
-# backend-kagets
-# backend-kagets
-# backend-kagets
-# backend-kagets
-# backend-kagets
-# backend-kagets
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
